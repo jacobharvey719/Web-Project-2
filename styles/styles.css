@@ -1,0 +1,35 @@
+body {
+            body {
+            background-color: #B2DAE4;
+            }
+            font-family: Helvetica, sans-serif;
+            font-size: 16px;
+            color: #555555;
+        }
+        li {font-size: 14px;
+            font-style: italic;
+            font-weight: normal;
+        }
+        a {
+            color: #4b1400;
+        }
+        .bold {
+            font-weight: bold;
+        }
+        body {
+             background-color: #B2DAE4;
+        }
+
+        .navigation {
+    background-color: #B2DAE4;
+    padding: 10px;
+}
+
+.profile {
+    text-align: center;
+    margin: 20px;
+}
+
+.resume-content {
+    margin: 20px;
+}
